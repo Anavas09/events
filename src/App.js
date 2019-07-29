@@ -13,8 +13,9 @@ function App() {
 
         <div className="uk-container">
           <Form />
+          
+          <EventList />
         </div>
-        <EventList />
       </ContextProvider>
     </EventsProvider>
   );
