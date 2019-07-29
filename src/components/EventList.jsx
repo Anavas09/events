@@ -16,11 +16,7 @@ const EventList = () => {
                             })
                         )
                     }else{
-                        return (
-                            <div>
-                                <h3>Ño</h3>
-                            </div>
-                        )
+                        return null
                     }
                 }}
             </EventsConsumer>

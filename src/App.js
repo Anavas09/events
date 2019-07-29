@@ -14,7 +14,6 @@ function App() {
         <div className="uk-container">
           <Form />
         </div>
-        <h1>Holis</h1>
         <EventList />
       </ContextProvider>
     </EventsProvider>
